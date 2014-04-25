@@ -1,0 +1,11 @@
+FEB 21 2014 - Version 0.1
+-------------------------
+- Initial Commit
+
+MAR 10 2014 - Version 0.2
+-------------------------
+- Additional fields on all post types
+- Taxonomy init priority changed to allow for taxonomy multi-selects as custom fields
+- Activities and Guides multi-select fields added to tour itineraries
+- Start and End date fields per room changed to single 'Time Frame' textarea field
+- 'Best Times to Travel' now a repeatable field on Tours

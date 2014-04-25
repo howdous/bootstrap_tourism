@@ -1,4 +1,4 @@
-bootstrap_tourism
+bootstrap-tourism
 =================
 
-Latest Tourism plugin
+Bootstrap Tourism

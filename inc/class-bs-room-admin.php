@@ -171,7 +171,7 @@ class BS_Room_Admin {
 		    'query_var'          => true,
 		    'rewrite'            => array( 'slug' => 'room' ),
 		    'capability_type'    => 'post',
-		    'has_archive'        => false,
+		    'has_archive'        => true,
 		    'hierarchical'       => true,
 		    'menu_position'      => null,
             'show_in_menu'       =>'edit.php?post_type=accommodation',

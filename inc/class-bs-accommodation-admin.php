@@ -274,7 +274,7 @@ class BS_Accommodation_Admin {
 		    'query_var'          => true,
 		    'rewrite'            => array( 'slug' => 'accommodation' ),
 		    'capability_type'    => 'post',
-		    'has_archive'        => false,
+		    'has_archive'        => true,
 		    'hierarchical'       => false,
 		    //'menu_position'      => '5.21',
 		    'supports'           => array( 'title', 'editor', 'custom-fields' )

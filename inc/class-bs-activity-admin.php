@@ -43,7 +43,7 @@ class BS_Activity_Admin
 		    'query_var'          => true,
 		    'rewrite'            => array( 'slug' => 'activity' ),
 		    'capability_type'    => 'post',
-		    'has_archive'        => false,
+		    'has_archive'        => true,
 		    'hierarchical'       => false,
 		    'menu_position'      => null,
             //'show_in_menu'       =>'edit.php?post_type=accommodation',

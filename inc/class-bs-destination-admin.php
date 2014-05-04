@@ -70,8 +70,8 @@ class BS_Destination_Admin {
 		    'query_var'          => true,
 		    'rewrite'            => array( 'slug' => 'destination' ),
 		    'capability_type'    => 'post',
-		    'has_archive'        => false,
-		    'hierarchical'       => false,
+		    'has_archive'        => true,
+		    'hierarchical'       => true,
 		    //'menu_position'      => '5.21',
 		    'supports'           => array( 'title', 'editor',)
 		);
